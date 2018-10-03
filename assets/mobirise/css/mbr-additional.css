@@ -22,17 +22,17 @@ body {
 }
 .display-1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 4rem;
+  font-size: 4.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 6.72rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 2.2rem;
+  font-size: 1.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.52rem;
+  font-size: 2.88rem;
 }
 .display-4 {
   font-family: 'Montserrat', sans-serif;
@@ -43,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.24rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -62,14 +62,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.36rem;
+    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.76rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1373,17 +1373,17 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r5qulVRB5S {
+.cid-r5rLR8L4wG {
   background-image: url("../../../assets/images/alexandra-gorn-471463-unsplash-2000x2000.jpg");
 }
-.cid-r5qulVRB5S .mbr-section-subtitle {
+.cid-r5rLR8L4wG .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
-.cid-r5qulVRB5S .mbr-text,
-.cid-r5qulVRB5S .mbr-section-btn {
+.cid-r5rLR8L4wG .mbr-text,
+.cid-r5rLR8L4wG .mbr-section-btn {
   color: #232323;
 }
-.cid-r5qulVRB5S H1 {
+.cid-r5rLR8L4wG H1 {
   text-align: right;
 }
 .cid-r5quWIaNEi .navbar {
@@ -1911,4 +1911,30 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-r5rILu834H {
+  background-image: url("../../../assets/images/alexandra-gorn-471463-unsplash-2000x2000.jpg");
+}
+.cid-r5rILu834H .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-r5rILu834H .mbr-text,
+.cid-r5rILu834H .mbr-section-btn {
+  color: #232323;
+}
+.cid-r5rILu834H H1 {
+  text-align: right;
+}
+.cid-r5rLKs0Aix {
+  background-image: url("../../../assets/images/alexandra-gorn-471463-unsplash-2000x2000.jpg");
+}
+.cid-r5rLKs0Aix .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-r5rLKs0Aix .mbr-text,
+.cid-r5rLKs0Aix .mbr-section-btn {
+  color: #232323;
+}
+.cid-r5rLKs0Aix H1 {
+  text-align: right;
 }
