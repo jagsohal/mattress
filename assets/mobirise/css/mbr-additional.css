@@ -1849,6 +1849,17 @@ body {
     height: auto !important;
   }
 }
+.cid-r5rMHFGwXI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fed775;
+}
+.cid-r5rMHFGwXI .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-r5rMHFGwXI H2 {
+  color: #232323;
+}
 .cid-r5qyMJRTKb {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1923,18 +1934,5 @@ body {
   color: #232323;
 }
 .cid-r5rILu834H H1 {
-  text-align: right;
-}
-.cid-r5rLKs0Aix {
-  background-image: url("../../../assets/images/alexandra-gorn-471463-unsplash-2000x2000.jpg");
-}
-.cid-r5rLKs0Aix .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-r5rLKs0Aix .mbr-text,
-.cid-r5rLKs0Aix .mbr-section-btn {
-  color: #232323;
-}
-.cid-r5rLKs0Aix H1 {
   text-align: right;
 }
